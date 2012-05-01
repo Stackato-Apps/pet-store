@@ -1,5 +1,0 @@
----
-applications:
-  target:
-    name: pet-store
-    mem: 512M
