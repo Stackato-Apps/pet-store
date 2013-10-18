@@ -1,5 +1,3 @@
 name: petstore
 mem: 512M
-framework:
-  type: spring
 app-dir: target
