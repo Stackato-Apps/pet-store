@@ -1,3 +1,3 @@
 name: petstore
 mem: 512M
-app-dir: target
+app-dir: target/jpetstore
