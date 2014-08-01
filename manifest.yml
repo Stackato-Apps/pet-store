@@ -1,0 +1,4 @@
+applications:
+- name: pet-store
+  mem: 512M
+  path: target/jpetstore
