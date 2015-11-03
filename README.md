@@ -18,7 +18,7 @@ That will create the *jpetstore.war* file in the 'target' directory.
 Deploying the Application
 -------------------------
 
-To deploy to stackato:
+To deploy to HPE Helion Stackato:
 
     mvn clean package 
     stackato push -n
